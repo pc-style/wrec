@@ -1,7 +1,7 @@
 > [!IMPORTANT]
-> **Archived upstream fork/reference. Do not use this repository for new work.**
+> **Archive pending. Do not use this repository for new work.** This upstream fork/reference is scheduled for archive once repository administration permission is available.
 >
-> Upstream: [shivamdoting/wrec](https://github.com/shivamdoting/wrec). The maintained `pc-style` delta is **none**; the only new commit is this archive notice.
+> Upstream: [shivamdoting/wrec](https://github.com/shivamdoting/wrec). The maintained `pc-style` delta is **none**; the only pc-style changes are repository-status notices.
 > Upstream history and license/provenance notices are preserved. The repository-detected license is [MIT License](LICENSE).
 > Use upstream for current code, releases, issues, and security updates.
 
