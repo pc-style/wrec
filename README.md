@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Archived upstream fork/reference. Do not use this repository for new work.**
+>
+> Upstream: [shivamdoting/wrec](https://github.com/shivamdoting/wrec). The maintained `pc-style` delta is **none**; the only new commit is this archive notice.
+> Upstream history and license/provenance notices are preserved. The repository-detected license is [MIT License](LICENSE).
+> Use upstream for current code, releases, issues, and security updates.
+
 <p align="center">
   <img src="images/wrec.png" alt="wrec" width="112" />
 </p>
